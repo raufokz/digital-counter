@@ -55,7 +55,7 @@ function App() {
       />
 
       <div className="manafacturer_info">
-      <div className="manufacturer">RAUF Okz</div>
+      <div className="manufacturer">RAUF</div>
 <div className="model">VERSION 1.0</div>
 
       </div>
